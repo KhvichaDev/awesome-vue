@@ -1522,6 +1522,7 @@ _LocalStorage etc._
 ##### Authentication/Authorization
 
 - [vue-auth-href](https://github.com/nachodd/vue-auth-href) - A VueJS directive for downloading files that are under a protected route schema
+- [kd-screen-guard](https://github.com/KhvichaDev/kd-screen-guard) - Standalone, tamper-proof lock screen library with WebAuthn biometrics, WebRTC intruder snapshot, PBKDF2 cryptography, and Vue 3 composables.
 
 ##### Vuex Utilities
 
